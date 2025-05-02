@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **Microservices Architecture**
+- 🌱 I’m currently learning and working on **React Native**
 
 - 📫 How to reach me **patilsatyam36@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/19Yy8WBxn7eJKidXtFMHoa8Xi4GHPxqp1/view?usp=drive_link](https://drive.google.com/file/d/19Yy8WBxn7eJKidXtFMHoa8Xi4GHPxqp1/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
